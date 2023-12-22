@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#boxframe{
+    display: flex;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+input{
+    width: 100px;
+}
